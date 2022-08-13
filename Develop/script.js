@@ -10,4 +10,5 @@ console.log(moment().format('MMMM Do YYYY, h:mm:ss a'));
 function addEvent() {
     eventContainer = "";
 }
- 
+//This is how I am going to store the planner details in local storage
+localStorage.setItem('today', today)
