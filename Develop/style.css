@@ -6,11 +6,12 @@ body {
 
 textarea {
   background: transparent;
-  border: none;
+  border: 2px solid black;
   resize: none;
-  color: #000000;
+  color: black;
   border-left: 1px solid black;
   padding: 10px;
+
 }
 
 .jumbotron {
@@ -23,6 +24,7 @@ textarea {
 
 .description {
   white-space: pre-wrap;
+  color: black;
 }
 
 #time-block {
@@ -58,15 +60,16 @@ textarea {
   color: white;
 }
 
-#saveBtn {
+.saveBtn {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
   background-color: #06aed5;
-  color: white;
+  color: black;
+  height: 78px;
 }
 
-#saveBtn i:hover {
+.saveBtn i:hover {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
