@@ -7,3 +7,7 @@ The user will be able to fill in each section and then be able to save it
     I am going to have to use an event listener for a svae button 
 
     I am going to need to save to the local memory using a .setitem 
+
+    questions:
+
+    Should I put the <textarea></textarea> Within the descriptiton area, or should i just pull from the container with the button?
