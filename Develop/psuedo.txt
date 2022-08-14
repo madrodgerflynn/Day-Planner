@@ -11,3 +11,5 @@ The user will be able to fill in each section and then be able to save it
     questions:
 
     Should I put the <textarea></textarea> Within the descriptiton area, or should i just pull from the container with the button?
+
+    How do I change the background color for the past/present/future
