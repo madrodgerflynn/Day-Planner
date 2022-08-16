@@ -14,3 +14,8 @@ Installation should be straightforward
 
 ## ScreenShot
 
+![day-planner](/Day-Planner\Assets\Day-PlannerScreenshot.PNG "Optional Title")
+
+## Contributions
+
+Shout out to James Young, Ehren Lewis, Matt Yang, Eric Oerke, and Matt Tudor. I could not have done it with out thier help!
