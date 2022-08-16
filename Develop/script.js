@@ -42,8 +42,8 @@ function pageLoad() {
     console.log(divHours[1]);
     for (var i = 0; i < divHours.length; ++i) {
     if (divHours[i] < now ) {
-        eventContainer.
-        console.log("past");
+        // eventContainer.style.backgroundColor = "#d3d3d3";
+        $(this).addClass("past");
         } else if (divHours[i] == now) {
             console.log("present");
          } else if (divHours[i] > now) {
